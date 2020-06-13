@@ -1,0 +1,66 @@
+Text: letters and numbers, words and phrases, sentences and paragraphs. It's how we convey most of the meaning in web pages. Text content informs, describes, explains concepts and procedures to our readers (not just "visitors"). It is the very basis of web communication.
+
+Text content on the web always has some structure -- even if only top-down, and some formatting -- even if only by default. It can also exhibit behavior, moving or changing, appearing or disappearing in response to a reader's action or the author's intent. But in and of itself, text content doesn't have these qualities and abilities; its structure, appearance, and behavior are implemented and affected by other text-based resources: HTML, CSS, and JavaScript code.
+
+In a web page, every character of that content, structure, formatting, and behavior must be fetched from the server and downloaded to the browser, a decidedly non-trivial task. In this section we'll look at some effective methods for speeding up text content loading.
+
+Separate Development from Deployment
+As you reduce the size of text resources and take other actions that affect their readability, it's important to remember that once you modify a chunk of code for deployment, you usually can't read it any longer, let alone maintain it. Always keep development and deployment files separate to avoid replacing a development file with a deployment version. Although, if it does happen by accident, a code beautifier or "unminifier" (for example, http://unminify.com/) might save the day.
+
+Minify Your Code
+One simple and effective method is minification, which is essentially compressing a text resource by removing its whitespace and unnecessary characters without changing its validity or functionality. It doesn't sound that useful, but it is. For example, this little function (part of a table-sorting script) initially contains 348 characters.
+Text: letters and numbers, words and phrases, sentences and paragraphs. It's how we convey most of the meaning in web pages. Text content informs, describes, explains concepts and procedures to our readers (not just "visitors"). It is the very basis of web communication.
+
+Text content on the web always has some structure -- even if only top-down, and some formatting -- even if only by default. It can also exhibit behavior, moving or changing, appearing or disappearing in response to a reader's action or the author's intent. But in and of itself, text content doesn't have these qualities and abilities; its structure, appearance, and behavior are implemented and affected by other text-based resources: HTML, CSS, and JavaScript code.
+
+In a web page, every character of that content, structure, formatting, and behavior must be fetched from the server and downloaded to the browser, a decidedly non-trivial task. In this section we'll look at some effective methods for speeding up text content loading.
+
+Separate Development from Deployment
+As you reduce the size of text resources and take other actions that affect their readability, it's important to remember that once you modify a chunk of code for deployment, you usually can't read it any longer, let alone maintain it. Always keep development and deployment files separate to avoid replacing a development file with a deployment version. Although, if it does happen by accident, a code beautifier or "unminifier" (for example, http://unminify.com/) might save the day.
+
+Minify Your Code
+One simple and effective method is minification, which is essentially compressing a text resource by removing its whitespace and unnecessary characters without changing its validity or functionality. It doesn't sound that useful, but it is. For example, this little function (part of a table-sorting script) initially contains 348 characters.
+Text: letters and numbers, words and phrases, sentences and paragraphs. It's how we convey most of the meaning in web pages. Text content informs, describes, explains concepts and procedures to our readers (not just "visitors"). It is the very basis of web communication.
+
+Text content on the web always has some structure -- even if only top-down, and some formatting -- even if only by default. It can also exhibit behavior, moving or changing, appearing or disappearing in response to a reader's action or the author's intent. But in and of itself, text content doesn't have these qualities and abilities; its structure, appearance, and behavior are implemented and affected by other text-based resources: HTML, CSS, and JavaScript code.
+
+In a web page, every character of that content, structure, formatting, and behavior must be fetched from the server and downloaded to the browser, a decidedly non-trivial task. In this section we'll look at some effective methods for speeding up text content loading.
+
+Separate Development from Deployment
+As you reduce the size of text resources and take other actions that affect their readability, it's important to remember that once you modify a chunk of code for deployment, you usually can't read it any longer, let alone maintain it. Always keep development and deployment files separate to avoid replacing a development file with a deployment version. Although, if it does happen by accident, a code beautifier or "unminifier" (for example, http://unminify.com/) might save the day.
+
+Minify Your Code
+One simple and effective method is minification, which is essentially compressing a text resource by removing its whitespace and unnecessary characters without changing its validity or functionality. It doesn't sound that useful, but it is. For example, this little function (part of a table-sorting script) initially contains 348 characters.
+Text: letters and numbers, words and phrases, sentences and paragraphs. It's how we convey most of the meaning in web pages. Text content informs, describes, explains concepts and procedures to our readers (not just "visitors"). It is the very basis of web communication.
+
+Text content on the web always has some structure -- even if only top-down, and some formatting -- even if only by default. It can also exhibit behavior, moving or changing, appearing or disappearing in response to a reader's action or the author's intent. But in and of itself, text content doesn't have these qualities and abilities; its structure, appearance, and behavior are implemented and affected by other text-based resources: HTML, CSS, and JavaScript code.
+
+In a web page, every character of that content, structure, formatting, and behavior must be fetched from the server and downloaded to the browser, a decidedly non-trivial task. In this section we'll look at some effective methods for speeding up text content loading.
+
+Separate Development from Deployment
+As you reduce the size of text resources and take other actions that affect their readability, it's important to remember that once you modify a chunk of code for deployment, you usually can't read it any longer, let alone maintain it. Always keep development and deployment files separate to avoid replacing a development file with a deployment version. Although, if it does happen by accident, a code beautifier or "unminifier" (for example, http://unminify.com/) might save the day.
+
+Minify Your Code
+One simple and effective method is minification, which is essentially compressing a text resource by removing its whitespace and unnecessary characters without changing its validity or functionality. It doesn't sound that useful, but it is. For example, this little function (part of a table-sorting script) initially contains 348 characters.
+Text: letters and numbers, words and phrases, sentences and paragraphs. It's how we convey most of the meaning in web pages. Text content informs, describes, explains concepts and procedures to our readers (not just "visitors"). It is the very basis of web communication.
+
+Text content on the web always has some structure -- even if only top-down, and some formatting -- even if only by default. It can also exhibit behavior, moving or changing, appearing or disappearing in response to a reader's action or the author's intent. But in and of itself, text content doesn't have these qualities and abilities; its structure, appearance, and behavior are implemented and affected by other text-based resources: HTML, CSS, and JavaScript code.
+
+In a web page, every character of that content, structure, formatting, and behavior must be fetched from the server and downloaded to the browser, a decidedly non-trivial task. In this section we'll look at some effective methods for speeding up text content loading.
+
+Separate Development from Deployment
+As you reduce the size of text resources and take other actions that affect their readability, it's important to remember that once you modify a chunk of code for deployment, you usually can't read it any longer, let alone maintain it. Always keep development and deployment files separate to avoid replacing a development file with a deployment version. Although, if it does happen by accident, a code beautifier or "unminifier" (for example, http://unminify.com/) might save the day.
+
+Minify Your Code
+One simple and effective method is minification, which is essentially compressing a text resource by removing its whitespace and unnecessary characters without changing its validity or functionality. It doesn't sound that useful, but it is. For example, this little function (part of a table-sorting script) initially contains 348 characters.
+Text: letters and numbers, words and phrases, sentences and paragraphs. It's how we convey most of the meaning in web pages. Text content informs, describes, explains concepts and procedures to our readers (not just "visitors"). It is the very basis of web communication.
+
+Text content on the web always has some structure -- even if only top-down, and some formatting -- even if only by default. It can also exhibit behavior, moving or changing, appearing or disappearing in response to a reader's action or the author's intent. But in and of itself, text content doesn't have these qualities and abilities; its structure, appearance, and behavior are implemented and affected by other text-based resources: HTML, CSS, and JavaScript code.
+
+In a web page, every character of that content, structure, formatting, and behavior must be fetched from the server and downloaded to the browser, a decidedly non-trivial task. In this section we'll look at some effective methods for speeding up text content loading.
+
+Separate Development from Deployment
+As you reduce the size of text resources and take other actions that affect their readability, it's important to remember that once you modify a chunk of code for deployment, you usually can't read it any longer, let alone maintain it. Always keep development and deployment files separate to avoid replacing a development file with a deployment version. Although, if it does happen by accident, a code beautifier or "unminifier" (for example, http://unminify.com/) might save the day.
+
+Minify Your Code
+One simple and effective method is minification, which is essentially compressing a text resource by removing its whitespace and unnecessary characters without changing its validity or functionality. It doesn't sound that useful, but it is. For example, this little function (part of a table-sorting script) initially contains 348 characters.

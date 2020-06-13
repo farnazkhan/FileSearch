@@ -1,0 +1,8 @@
+
+Looking for how to make an ArrayList empty following ArrayList example program will Remove all of the elements from ArrayList.
+ The list will be empty after calling the clear method. ArrayList clear method has been implemented from the Collection 
+interface and overridden from AbstractList.Looking for how to make an ArrayList empty following ArrayList example program will 
+Remove all of the elements from ArrayList. The list will be empty after calling the clear method. ArrayList clear method has been 
+implemented from the Collection interface and overridden from AbstractList.
+Looking for how to make an ArrayList empty following ArrayList example program will Remove all of the elements from ArrayList.
+ The list will be empty after calling the clear method. ArrayList clear method has been implemented from the Collection interface and overridden from AbstractList.

@@ -1,0 +1,7 @@
+Basic file handling example for line by line reading file asked frequently in core interviews. The following program is to read a file line by line and display the result.
+
+Step 1: Creating the object to FileReader and BufferedReader.
+
+Step 2: Reading and displaying content line by line using while loop.
+
+FileReadByline.java

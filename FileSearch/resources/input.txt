@@ -1,0 +1,10 @@
+ava HashMap provides the basic implementation of the Map interface of Java. It stores the data in Key and Value pairs. Based on the hashing technique it converting a large String to small String that represents the same String.
+
+Key takeaways from Java hashmap,
+
+Does not contain duplicate keys.
+Allows null values and key.
+There is no specific order of the elements.
+It is not thread-safe. Synchronize concurrent modifications to the HashMap explicitly.
+Java HashMap Replace Method
+Java HashMapReplace method will Replace the Old value with the new value for the specified Key in the HashMap.HashMap Replace method has been implemented from Map interface.
