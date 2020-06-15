@@ -55,7 +55,10 @@ public class IndexedSearch extends Search {
 	
 	  
 	 
-	
+/**
+ * The Search Word method called 
+ * 
+ */	
 public static void searchWord (String input) throws IOException, InterruptedException {
 	long currentTime=System.nanoTime();
 	
@@ -72,6 +75,11 @@ public static void searchWord (String input) throws IOException, InterruptedExce
   
 }
 
+/**
+ * To prepare the index of words present in the file
+ *
+ */
+	
 static int countOccurences(String str, String word, HashMap<String,Integer> map)  
 { 
     
