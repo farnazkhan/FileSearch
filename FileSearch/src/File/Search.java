@@ -5,6 +5,11 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * This is a Base class for our Search mechanism
+ * @author User
+ *
+ */
 public class Search {
 
 	
